@@ -34,3 +34,17 @@ How have UK consumers changed their online and offline fashion shopping behaviou
 ## Business Impact
 
 Provides actionable recommendations for fashion retailers on customer segmentation, omnichannel strategy and sustainability positioning.
+
+## Key Visual Insights
+
+### Shopping Channel Preferences
+
+![Shopping Channel Preferences](visuals/channel_preferences.png)
+
+### Gender Differences in Shopping Drivers
+
+![Gender Drivers](visuals/gender_vs_drivers.png)
+
+### Channel Attribute Priorities
+
+![Channel Attributes](visuals/channel_attributes.png)
