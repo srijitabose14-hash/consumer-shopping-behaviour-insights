@@ -18,10 +18,10 @@ How have UK consumers changed their online and offline fashion shopping behaviou
 ## Methods
 
 - Correlation Analysis
-- T-Test
-- ANOVA
+- Independent Samples T-Test
+- Repeated Measures ANOVA
 - Linear Regression
-- Logistic Regression
+- Binary & Multinomial Logistic Regression
 
 ## Key Findings
 
@@ -42,6 +42,14 @@ Provides actionable recommendations for fashion retailers on customer segmentati
 ![Shopping Channel Preferences](visuals/channel_preferences.png)
 
 ### Gender Differences in Shopping Drivers
+
+## Recommendations
+
+- Prioritise omnichannel retail strategies as most consumers use both online and offline channels.
+- Strengthen sustainability messaging in physical stores to appeal to environmentally conscious consumers.
+- Tailor marketing campaigns by gender-specific shopping motivations.
+- Improve online review visibility and convenience-focused features.
+- Use customer segmentation to personalise shopping experiences.
 
 ![Gender Drivers](visuals/gender_vs_drivers.png)
 
